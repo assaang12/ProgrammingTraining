@@ -12,7 +12,7 @@ public class °úÁ¦2 {
 			f1=f; 
 			
 		if (i==10) {
-			System.out.println(f);
+			System.out.println("f10="+f);
 		}
 		
 		
