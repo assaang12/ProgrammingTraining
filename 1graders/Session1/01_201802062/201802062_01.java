@@ -16,7 +16,7 @@ public class report {
 		min = (sec1 / 60) % 60;
 		hour = sec1 / 3600;
 		
-		System.out.println(hour + "시" + min + "분" + sec2 + "초");
+		System.out.println(hour + "시"+ min + "분" + sec2 + "초");
 		
 	}
 
